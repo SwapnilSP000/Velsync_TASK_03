@@ -1,0 +1,17 @@
+{
+  "name": "professional-node-app",
+  "version": "1.0.0",
+  "description": "A clean starter Node.js project for CI/CD with GitHub Actions and Render.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "echo 'Build complete (add real build steps here)'"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
